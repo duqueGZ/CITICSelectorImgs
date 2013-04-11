@@ -1,0 +1,4 @@
+CITICSelectorImgs
+=================
+
+SelectorImgs example app
